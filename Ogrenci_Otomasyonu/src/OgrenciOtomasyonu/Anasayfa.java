@@ -1,5 +1,3 @@
-//Sevde Nur TOSUNER / 20010011044
-
 package Final_Odevi;
 
 import java.io.BufferedReader;
